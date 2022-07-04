@@ -37,3 +37,19 @@ section{
     border-radius: 5px;
     background: linear-gradient(45deg, lightsalmon, tomato);
 }
+/* header part end */
+/* dream part start */
+.dream-section{}
+.dream-img{
+    width: 40%;
+    padding: 5%;
+}
+.dream-img img{
+    width: 100%;
+}
+.dream-content{
+    width: 30%;
+    padding: 5%;
+}
+.dream-content h1{}
+/* dream part end */
